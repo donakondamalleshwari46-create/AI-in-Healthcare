@@ -1,0 +1,1 @@
+AI-powered healthcare pre-screening system that uses NLP and machine learning to analyze symptoms, classify risk levels, and recommend nearby doctors. It follows a hybrid model where AI supports decision-making but certified doctors have final authority, ensuring secure data handling, faster triage, improved accuracy, and reliable access to timely primary healthcare services.
